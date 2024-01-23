@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    
+        #pagetop img {
+            max-height: 100%;
+            max-width: 100%;
+}
+
+
+
+#pagetop img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#conteiner {
+    background-color: rgb(25, 25, 26);
+    margin-top: 0;
+    margin-left: 0;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 5%;
+}
+
+h2 {
+    color: #f0f0f0;
+    font-size: 40px;
+}
+
+
+
+#first-p {
+    color: orange;
+    text-align:justify;
+}
+#second-p {
+    color: #f0f0f0;
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+    color: rgb(228, 151, 9);
+}
